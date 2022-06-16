@@ -8,7 +8,7 @@
 #$ -N extract_RDS
 #$ -o stdout_extract_RDS
 #$ -e stderr_extract_RDS
-#$ -t 1-5
+#$ -t 1-14
 
 hostname
 
