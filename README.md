@@ -20,4 +20,4 @@ Scripts are listed by the order in the methods section of the manuscript:
 
 
 
-All code is also available on Github: https://github.com/alexxue81/PEER_factors/
+All code is also available on Github: https://github.com/anglixue/PEER_factors/
