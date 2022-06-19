@@ -93,7 +93,6 @@ sk=data.frame(gene=colnames(expr2),skewness=sk)
 write.table(sk,paste0(ct_name,"_mx_skewness.txt"),col.names=T,row.names=F,quote=F)
 
 
-if(FALSE){
 #Set PEER paramaters based on the instructions from PEER package website
 
 model = PEER()
@@ -162,7 +161,4 @@ print(Sys.time())
 end=Sys.time()
 z=as.numeric(end-start,units="mins")
 print(paste0("Running time for whole script is ",z," mins"))
-
-
-}
 
