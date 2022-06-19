@@ -1,5 +1,5 @@
 # PEER_factors
-This repository contains code pipeline to generate PEER factors from pseudo-bulk data and perform eQTL association analysis as part of the manuscript "Pitfalls and opportunities for applying PEER factors in single-cell eQTL analyses"
+This repository contains the analysis code pipeline to generate PEER factors from pseudo-bulk data and perform eQTL association analysis as part of the manuscript "**Pitfalls and opportunities for applying PEER factors in single-cell eQTL analyses**"
 
 Scripts are listed by the order in the methods section of the manuscript:
 
