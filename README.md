@@ -24,6 +24,6 @@ All code is also available on Github: https://github.com/powellgenomicslab/PEER_
 
 # Citation
 
-Angli Xue, Seyhan Yazar, Drew Neavin, Joseph E. Powell. Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses. _Genome Biology_. 2023. [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02873-5)
+Angli Xue, Seyhan Yazar, Drew Neavin, Joseph E. Powell. Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses. _Genome Biology_. 2023. [Full text](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02873-5)
 
 For questions, please email us at Angli Xue (a.xue@garvan.org.au) or Joseph E. Powell (j.powell@garvan.org.au)
